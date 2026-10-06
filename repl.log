@@ -1,0 +1,10 @@
+
+> pokedexproject@1.0.0 dev
+> npx tsc && node dist/main.js
+
+Pokedex > Throwing a Pokeball at squirtle...
+squirtle escaped!
+Pokedex > Throwing a Pokeball at squirtle...
+squirtle was caught!
+You may now inspect it with the inspect command.
+Pokedex > Closing the Pokedex... Goodbye!
